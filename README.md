@@ -1,9 +1,9 @@
 # Digital-Clock
 
 The program displays a clock in 12-hour or 24-hour format. The user can also change the clock color by pressing keys on a keyboard.
-
+<hr>
 <i>Specifications:</i>
-
+<hr>
 • Displays the time by extending the Label class and using the SimpleDateFormat class as a Timeline
   animation.
   
